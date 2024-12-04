@@ -1,4 +1,4 @@
-| Topic | Question | Difficulty                                                                                            |        |
+| # | Topic  | Question                                                                                             |     Difficulty   |
 |-------|----------|-------------------------------------------------------------------------------------------------------|--------|
 | 1     | String   | https://leetcode.com/problems/longest-substring-without-repeating-characters                          | Medium |
 | 2     | String   | https://leetcode.com/problems/longest-palindromic-substring                                           | Medium |
