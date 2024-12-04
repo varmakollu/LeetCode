@@ -1,0 +1,24 @@
+| #  | Topic       | Question                                                                          | Difficulty |
+|----|-------------|-----------------------------------------------------------------------------------|------------|
+| 1  | Enumeration | https://leetcode.com/problems/count-primes                                        | Medium     |
+| 2  | Enumeration | https://leetcode.com/problems/longest-mountain-in-array                           | Medium     |
+| 3  | Enumeration | https://leetcode.com/problems/consecutive-numbers-sum                             | Hard       |
+| 4  | Enumeration | https://leetcode.com/problems/sequential-digits                                   | Medium     |
+| 5  | Enumeration | https://leetcode.com/problems/reordered-power-of-2                                | Medium     |
+| 6  | Enumeration | https://leetcode.com/problems/largest-time-for-given-digits                       | Medium     |
+| 7  | Enumeration | https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times | Easy       |
+| 8  | Enumeration | https://leetcode.com/problems/count-good-triplets                                 | Easy       |
+| 9  | Enumeration | https://leetcode.com/problems/super-palindromes                                   | Hard       |
+| 10 | Enumeration | https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities     | Hard       |
+| 11 | Enumeration | https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array        | Hard       |
+| 12 | Enumeration | https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests      | Hard       |
+| 13 | Enumeration | https://leetcode.com/problems/count-special-quadruplets                           | Easy       |
+| 14 | Enumeration | https://leetcode.com/problems/recover-the-original-array                          | Hard       |
+| 15 | Enumeration | https://leetcode.com/problems/longest-subsequence-repeated-k-times                | Hard       |
+| 16 | Enumeration | https://leetcode.com/problems/count-square-sum-triples                            | Easy       |
+| 17 | Enumeration | https://leetcode.com/problems/finding-3-digit-even-numbers                        | Easy       |
+| 18 | Enumeration | https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword            | Medium     |
+| 19 | Enumeration | https://leetcode.com/problems/next-greater-numerically-balanced-number            | Medium     |
+| 20 | Enumeration | https://leetcode.com/problems/check-if-move-is-legal                              | Medium     |
+| 21 | Enumeration | https://leetcode.com/problems/sum-of-k-mirror-numbers                             | Hard       |
+| 22 | Enumeration | https://leetcode.com/problems/coordinate-with-maximum-network-quality             | Medium     |
