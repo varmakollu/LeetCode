@@ -1,0 +1,26 @@
+| #  | Topic    | Question                                                                             | Difficulty |
+|----|----------|--------------------------------------------------------------------------------------|------------|
+| 1  | Geometry | https://leetcode.com/problems/k-closest-points-to-origin                             | Medium     |
+| 2  | Geometry | https://leetcode.com/problems/minimum-area-rectangle                                 | Medium     |
+| 3  | Geometry | https://leetcode.com/problems/rectangle-overlap                                      | Easy       |
+| 4  | Geometry | https://leetcode.com/problems/minimum-time-visiting-all-points                       | Easy       |
+| 5  | Geometry | https://leetcode.com/problems/max-points-on-a-line                                   | Hard       |
+| 6  | Geometry | https://leetcode.com/problems/check-if-it-is-a-straight-line                         | Easy       |
+| 7  | Geometry | https://leetcode.com/problems/rectangle-area                                         | Medium     |
+| 8  | Geometry | https://leetcode.com/problems/valid-square                                           | Medium     |
+| 9  | Geometry | https://leetcode.com/problems/erect-the-fence                                        | Hard       |
+| 10 | Geometry | https://leetcode.com/problems/matrix-cells-in-distance-order                         | Easy       |
+| 11 | Geometry | https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle            | Medium     |
+| 12 | Geometry | https://leetcode.com/problems/surface-area-of-3d-shapes                              | Easy       |
+| 13 | Geometry | https://leetcode.com/problems/projection-area-of-3d-shapes                           | Easy       |
+| 14 | Geometry | https://leetcode.com/problems/mirror-reflection                                      | Medium     |
+| 15 | Geometry | https://leetcode.com/problems/generate-random-point-in-a-circle                      | Medium     |
+| 16 | Geometry | https://leetcode.com/problems/maximum-number-of-visible-points                       | Hard       |
+| 17 | Geometry | https://leetcode.com/problems/largest-triangle-area                                  | Easy       |
+| 18 | Geometry | https://leetcode.com/problems/minimum-area-rectangle-ii                              | Medium     |
+| 19 | Geometry | https://leetcode.com/problems/self-crossing                                          | Hard       |
+| 20 | Geometry | https://leetcode.com/problems/circle-and-rectangle-overlapping                       | Medium     |
+| 21 | Geometry | https://leetcode.com/problems/valid-boomerang                                        | Easy       |
+| 22 | Geometry | https://leetcode.com/problems/detonate-the-maximum-bombs                             | Medium     |
+| 23 | Geometry | https://leetcode.com/problems/best-position-for-a-service-centre                     | Hard       |
+| 24 | Geometry | https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard | Hard       |
