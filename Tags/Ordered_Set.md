@@ -1,0 +1,33 @@
+| #  | Topic       | Question                                                                                                 | Difficulty |
+|----|-------------|----------------------------------------------------------------------------------------------------------|------------|
+| 1  | Ordered Set | https://leetcode.com/problems/count-of-smaller-numbers-after-self                                        | Hard       |
+| 2  | Ordered Set | https://leetcode.com/problems/the-skyline-problem                                                        | Hard       |
+| 3  | Ordered Set | https://leetcode.com/problems/132-pattern                                                                | Medium     |
+| 4  | Ordered Set | https://leetcode.com/problems/maximum-frequency-stack                                                    | Hard       |
+| 5  | Ordered Set | https://leetcode.com/problems/reverse-pairs                                                              | Hard       |
+| 6  | Ordered Set | https://leetcode.com/problems/contains-duplicate-iii                                                     | Medium     |
+| 7  | Ordered Set | https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit | Medium     |
+| 8  | Ordered Set | https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k                                      | Hard       |
+| 9  | Ordered Set | https://leetcode.com/problems/my-calendar-i                                                              | Medium     |
+| 10 | Ordered Set | https://leetcode.com/problems/count-of-range-sum                                                         | Hard       |
+| 11 | Ordered Set | https://leetcode.com/problems/odd-even-jump                                                              | Hard       |
+| 12 | Ordered Set | https://leetcode.com/problems/my-calendar-ii                                                             | Medium     |
+| 13 | Ordered Set | https://leetcode.com/problems/exam-room                                                                  | Medium     |
+| 14 | Ordered Set | https://leetcode.com/problems/range-module                                                               | Hard       |
+| 15 | Ordered Set | https://leetcode.com/problems/rectangle-area-ii                                                          | Hard       |
+| 16 | Ordered Set | https://leetcode.com/problems/my-calendar-iii                                                            | Hard       |
+| 17 | Ordered Set | https://leetcode.com/problems/data-stream-as-disjoint-intervals                                          | Hard       |
+| 18 | Ordered Set | https://leetcode.com/problems/minimize-deviation-in-array                                                | Hard       |
+| 19 | Ordered Set | https://leetcode.com/problems/create-sorted-array-through-instructions                                   | Hard       |
+| 20 | Ordered Set | https://leetcode.com/problems/falling-squares                                                            | Hard       |
+| 21 | Ordered Set | https://leetcode.com/problems/minimum-absolute-sum-difference                                            | Medium     |
+| 22 | Ordered Set | https://leetcode.com/problems/random-point-in-non-overlapping-rectangles                                 | Medium     |
+| 23 | Ordered Set | https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair                                | Medium     |
+| 24 | Ordered Set | https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference                 | Hard       |
+| 25 | Ordered Set | https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests                          | Hard       |
+| 26 | Ordered Set | https://leetcode.com/problems/stock-price-fluctuation                                                    | Medium     |
+| 27 | Ordered Set | https://leetcode.com/problems/finding-mk-average                                                         | Hard       |
+| 28 | Ordered Set | https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant                               | Medium     |
+| 29 | Ordered Set | https://leetcode.com/problems/design-movie-rental-system                                                 | Hard       |
+| 30 | Ordered Set | https://leetcode.com/problems/tweet-counts-per-frequency                                                 | Medium     |
+| 31 | Ordered Set | https://leetcode.com/problems/sequentially-ordinal-rank-tracker                                          | Hard       |
