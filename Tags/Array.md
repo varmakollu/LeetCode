@@ -1,4 +1,4 @@
-| Topic | Question | Difficulty                                                                                                  |        |
+| # | Topic  | Question                                                                                                   |    Difficulty    |
 |-------|----------|-------------------------------------------------------------------------------------------------------------|--------|
 | 1     | Array    | https://leetcode.com/problems/two-sum                                                                       | Easy   |
 | 2     | Array    | https://leetcode.com/problems/maximum-subarray                                                              | Easy   |
