@@ -1,0 +1,37 @@
+| #  | Topic              | Question                                                                                  | Difficulty |
+|----|--------------------|-------------------------------------------------------------------------------------------|------------|
+| 1  | Divide and Conquer | https://leetcode.com/problems/maximum-subarray                                            | Easy       |
+| 2  | Divide and Conquer | https://leetcode.com/problems/median-of-two-sorted-arrays                                 | Hard       |
+| 3  | Divide and Conquer | https://leetcode.com/problems/merge-k-sorted-lists                                        | Hard       |
+| 4  | Divide and Conquer | https://leetcode.com/problems/kth-largest-element-in-an-array                             | Medium     |
+| 5  | Divide and Conquer | https://leetcode.com/problems/majority-element                                            | Easy       |
+| 6  | Divide and Conquer | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal   | Medium     |
+| 7  | Divide and Conquer | https://leetcode.com/problems/top-k-frequent-elements                                     | Medium     |
+| 8  | Divide and Conquer | https://leetcode.com/problems/search-a-2d-matrix-ii                                       | Medium     |
+| 9  | Divide and Conquer | https://leetcode.com/problems/sort-list                                                   | Medium     |
+| 10 | Divide and Conquer | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree                  | Easy       |
+| 11 | Divide and Conquer | https://leetcode.com/problems/count-of-smaller-numbers-after-self                         | Hard       |
+| 12 | Divide and Conquer | https://leetcode.com/problems/k-closest-points-to-origin                                  | Medium     |
+| 13 | Divide and Conquer | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree                   | Medium     |
+| 14 | Divide and Conquer | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal  | Medium     |
+| 15 | Divide and Conquer | https://leetcode.com/problems/the-skyline-problem                                         | Hard       |
+| 16 | Divide and Conquer | https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters      | Medium     |
+| 17 | Divide and Conquer | https://leetcode.com/problems/maximum-binary-tree                                         | Medium     |
+| 18 | Divide and Conquer | https://leetcode.com/problems/maximum-sum-circular-subarray                               | Medium     |
+| 19 | Divide and Conquer | https://leetcode.com/problems/reverse-bits                                                | Easy       |
+| 20 | Divide and Conquer | https://leetcode.com/problems/reverse-pairs                                               | Hard       |
+| 21 | Divide and Conquer | https://leetcode.com/problems/wiggle-sort-ii                                              | Medium     |
+| 22 | Divide and Conquer | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal | Medium     |
+| 23 | Divide and Conquer | https://leetcode.com/problems/sort-an-array                                               | Medium     |
+| 24 | Divide and Conquer | https://leetcode.com/problems/balance-a-binary-search-tree                                | Medium     |
+| 25 | Divide and Conquer | https://leetcode.com/problems/count-of-range-sum                                          | Hard       |
+| 26 | Divide and Conquer | https://leetcode.com/problems/beautiful-array                                             | Medium     |
+| 27 | Divide and Conquer | https://leetcode.com/problems/find-a-peak-element-ii                                      | Medium     |
+| 28 | Divide and Conquer | https://leetcode.com/problems/create-sorted-array-through-instructions                    | Hard       |
+| 29 | Divide and Conquer | https://leetcode.com/problems/construct-quad-tree                                         | Medium     |
+| 30 | Divide and Conquer | https://leetcode.com/problems/super-pow                                                   | Medium     |
+| 31 | Divide and Conquer | https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst             | Hard       |
+| 32 | Divide and Conquer | https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array                   | Medium     |
+| 33 | Divide and Conquer | https://leetcode.com/problems/find-kth-largest-xor-coordinate-value                       | Medium     |
+| 34 | Divide and Conquer | https://leetcode.com/problems/find-array-given-subset-sums                                | Hard       |
+| 35 | Divide and Conquer | https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees    | Medium     |
