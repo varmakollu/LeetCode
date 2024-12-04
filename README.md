@@ -5,7 +5,7 @@
 |-----------------------|-----------------|----------------|-----------------------|
 | [Must Do Questions](https://github.com/varmakollu/LeetCode/blob/main/MustDoQues.md)     | 1 - 500              | Easy, Medium, Hard   | High                  |
 | [Can Do Questions](https://github.com/varmakollu/LeetCode/blob/main/CanDoQues.md)      | 501 - 1000            | Easy, Medium, Hard         |  Medium               |
-| Optional Questions    | 1001  - 1628          | Easy, Medium, Hard           |  Low                  |
+| [Optional Questions ](https://github.com/varmakollu/LeetCode/blob/main/Optional.md)   | 1001  - 1628          | Easy, Medium, Hard           |  Low                  |
 
 ---
 
