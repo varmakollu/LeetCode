@@ -1,4 +1,4 @@
-| Topic | Question            | Difficulty                                                                                                |        |
+| #  |Topic             | Question                                                                                                 |   Difficulty     |
 |-------|---------------------|-----------------------------------------------------------------------------------------------------------|--------|
 | 1     | Dynamic Programming | https://leetcode.com/problems/maximum-subarray                                                            | Easy   |
 | 2     | Dynamic Programming | https://leetcode.com/problems/trapping-rain-water                                                         | Hard   |
