@@ -1,12 +1,12 @@
 # LeetCode Question Sheet
 
-## Categories
-1. []()Must Do Questions (1 - 500)[]()  
-   - Core questions to master the basics.
-2. []()Can Do Questions (501 - 1000)[]()  
-   - Questions to solidify your concepts.
-3. []()Optional Questions[]()  
-   - Additional questions for comprehensive preparation.
+## Sheet Layout
+| **Category**          | **Question ID** | **Difficulty** | **Priority**     |
+|-----------------------|-----------------|----------------|-----------------------|
+| [Must Do Questions](https://github.com/varmakollu/LeetCode/blob/main/MustDoQues.md)     | 1 - 500              | Easy, Medium, Hard   | High                  |
+| Can Do Questions      | 501 - 1000            | Easy, Medium, Hard         |  Medium               |
+| Optional Questions    | 1001  - 1628          | Easy, Medium, Hard           |  Low                  |
+
 ---
 
 ## Tags
@@ -78,17 +78,6 @@
 - [Strongly Connected Component]()
 - [Radix Sort]()
 - [Biconnected Component]()
-
----
-
-## Sheet Layout
-| **Category**         | []()Question ID[]() | []()Difficulty[]() | []()Tag(s)[]()            | []()Priority[]()       |
-|-----------------------|-----------------|----------------|-----------------------|--------------------|
-| Must Do Questions     | 1               | Easy           | Array, Sorting        | High               |
-| Must Do Questions     | 2               | Medium         | Dynamic Programming   | High               |
-| Can Do Questions      | 501             | Medium         | Graph, BFS            | Medium             |
-| Optional Questions    | 1001            | Hard           | Trie, Backtracking    | Low                |
-
 ---
 
 ### Instructions
